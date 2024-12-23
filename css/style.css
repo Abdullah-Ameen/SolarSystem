@@ -51,7 +51,7 @@ body {
 
 .orbit {
     position: absolute;
-    border: 0.5px dashed rgb(248, 246, 246);
+    border: 0.5px solid white;
     border-radius: 50%;
     z-index: 1; /* Ensure orbits stay behind planets */
     pointer-events: none; /* Prevent orbits from blocking clicks */
